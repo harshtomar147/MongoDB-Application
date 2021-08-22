@@ -1,6 +1,7 @@
 # MongoDB-Application
 Banking GUI Application ( Python + MongoDB)
-Python
+
+#Python
 • Goto www.python.org. and scroll to find download option. 
 • Look for the recent version and click on it. 
 • In the Download page, scroll and choose the executable installer for windows.Click on it and watch it downloading. 
@@ -14,7 +15,7 @@ Python
 • Open a terminal and type ‘python’.  There you are…. REPL python coding can be done.  
 
 
-VSCODE 
+#VSCODE 
 https://code.visualstudio.com/download 
 • Choose the windows X 64 installer option.
 • Follow the dialogue boxes and agree the terms and conditions. (don’t change the default location)
@@ -24,7 +25,7 @@ https://code.visualstudio.com/download
 • Create a folder ‘python’ in desktop and open that folder inside vscode.
 • Create a new file in it and type a python code. Run the code by choosing the option.
 
-MONGODB Installation and setup:
+#MONGODB Installation and setup:
 
 • Visit mongodb.com. 
 • Download Mongodb Community server. ‘MSI’ extension file will be downloaded. 
@@ -36,7 +37,7 @@ MONGODB Installation and setup:
 • Keeping that terminal running, open another cmd terminal and type ‘mongo’. You will get the prompt from where you can give mongodb commands.
 
 
-Mongdb Compas installation.( if not installed while in previous setup)
+#Mongdb Compas installation.( if not installed while in previous setup)
 
 • Go to mongodb.com/download center and download compass. Choose server mode.
 • After downloading go to the Docs in the same page and manual page and click on “installation” on the left.
@@ -47,7 +48,7 @@ Mongdb Compas installation.( if not installed while in previous setup)
 • We need to give the connecting string.Click on “fill in connection field individually” 
 • Give your local ip address and local host number. There you go.
 
-PYMONGO – Installation and configuration.
+#PYMONGO – Installation and configuration.
  
 1. Open a cmd promt and type : PIP install pymongo
 2. Let the installation start and be complete.
@@ -83,7 +84,7 @@ PYMONGO – Installation and configuration.
 
 
 
-Import mongo json file.
+#Import mongo json file.
 1. We need to check if the IMPORT tool is active in mongo.
 2. Visit: www.mongodb.com/try/download/database-tools
 3. Download available MongoDB Database tools.
