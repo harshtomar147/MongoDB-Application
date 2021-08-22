@@ -2,6 +2,7 @@
 Banking GUI Application ( Python + MongoDB)
 
 #Python
+
 • Goto www.python.org. and scroll to find download option. 
 • Look for the recent version and click on it. 
 • In the Download page, scroll and choose the executable installer for windows.Click on it and watch it downloading. 
@@ -16,6 +17,7 @@ Banking GUI Application ( Python + MongoDB)
 
 
 #VSCODE 
+
 https://code.visualstudio.com/download 
 • Choose the windows X 64 installer option.
 • Follow the dialogue boxes and agree the terms and conditions. (don’t change the default location)
@@ -85,6 +87,7 @@ https://code.visualstudio.com/download
 
 
 #Import mongo json file.
+
 1. We need to check if the IMPORT tool is active in mongo.
 2. Visit: www.mongodb.com/try/download/database-tools
 3. Download available MongoDB Database tools.
